@@ -23,7 +23,7 @@
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
-    "gulp": "^4.0.2",
+    "gulp": "4.0",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-babel": "^8.0.0",
     "gulp-plumber": "^1.2.1",
@@ -40,7 +40,6 @@
     "gulp-template": "^1.1.1",
     "gulp-usemin": "^0.3.8",
     "gulp-util": "^3.0.1",
-    "assemble": "git://github.com/assemble/assemble#v0.6.0",
     "lodash": "^2.4.1",
     "marked": "^0.3.2",
     "gulp-clean": "^0.3.1"
